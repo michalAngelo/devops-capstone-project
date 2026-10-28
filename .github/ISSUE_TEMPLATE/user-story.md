@@ -1,5 +1,5 @@
 ---
-name: ISSUE_TEMPLATE
+name: user-story
 about: capstone project issue template
 title: user_story
 labels: ''
