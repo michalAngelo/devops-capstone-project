@@ -1,7 +1,7 @@
 ---
 name: ISSUE_TEMPLATE
 about: capstone project issue template
-title: ''
+title: user_story
 labels: ''
 assignees: ''
 
